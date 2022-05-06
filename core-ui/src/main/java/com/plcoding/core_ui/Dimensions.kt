@@ -13,5 +13,4 @@ data class Dimensions(
     val spaceExtraLarge: Dp = 64.dp
 )
 
-// TODO: asj
 val LocalSpacing = compositionLocalOf { Dimensions() }
