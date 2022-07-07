@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/compose-model-1655752739604.xml" value="0.6476964769647696" />
+        <entry key="core/src/main/res/drawable/ic_breakfast.xml" value="0.1085" />
+        <entry key="core/src/main/res/drawable/ic_burger.xml" value="0.1085" />
+        <entry key="core/src/main/res/drawable/ic_dinner.xml" value="0.1085" />
+        <entry key="core/src/main/res/drawable/ic_lunch.xml" value="0.1085" />
+        <entry key="core/src/main/res/drawable/ic_snack.xml" value="0.1085" />
         <entry key="onboarding/onboarding_presentation/src/main/java/com/plcoding/onboarding_presentation/components/ActionButton.kt" value="0.6937669376693767" />
       </map>
     </option>
