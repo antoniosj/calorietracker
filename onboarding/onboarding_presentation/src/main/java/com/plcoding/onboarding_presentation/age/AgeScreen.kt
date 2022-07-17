@@ -57,7 +57,8 @@ fun AgeScreen(
             Spacer(modifier = Modifier.height(spacing.spaceMedium))
             UnitTextField(
                 value = viewModel.age,
-                onValueChange = viewModel::onAgeEnter,
+                // same as { it -> viewModel.onAgeEnter(it) } // it == age
+                onValueChange = viewModel::onAgeEnter ,
                 unit = stringResource(id = R.string.years)
             )
         }
