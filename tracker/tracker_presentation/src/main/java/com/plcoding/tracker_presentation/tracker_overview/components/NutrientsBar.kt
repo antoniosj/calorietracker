@@ -1,5 +1,6 @@
 package com.plcoding.tracker_presentation.tracker_overview.components
 
+import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.core.Animatable
 import androidx.compose.foundation.Canvas
 import androidx.compose.material.MaterialTheme
